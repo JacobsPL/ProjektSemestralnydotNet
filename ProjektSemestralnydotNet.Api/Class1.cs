@@ -6,5 +6,5 @@ public class Class1
     // wydział nowych technologii i chemii
     // . 
     // cos2
-    // Jakub zgłasz sie
+    // Jakub zgłasza sie - poprawka z git ignore
 }
