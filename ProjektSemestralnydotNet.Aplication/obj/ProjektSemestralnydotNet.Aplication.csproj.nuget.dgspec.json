@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jakubkrawczyk/RiderProjects/ProjektSemestralnydotNet/ProjektSemestralnydotNet.Aplication/ProjektSemestralnydotNet.Aplication.csproj": {}
+    "C:\\Users\\alicj\\Desktop\\dotNetLab\\ProjektSemestralnydotNet\\ProjektSemestralnydotNet.Aplication\\ProjektSemestralnydotNet.Aplication.csproj": {}
   },
   "projects": {
-    "/Users/jakubkrawczyk/RiderProjects/ProjektSemestralnydotNet/ProjektSemestralnydotNet.Aplication/ProjektSemestralnydotNet.Aplication.csproj": {
+    "C:\\Users\\alicj\\Desktop\\dotNetLab\\ProjektSemestralnydotNet\\ProjektSemestralnydotNet.Aplication\\ProjektSemestralnydotNet.Aplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jakubkrawczyk/RiderProjects/ProjektSemestralnydotNet/ProjektSemestralnydotNet.Aplication/ProjektSemestralnydotNet.Aplication.csproj",
+        "projectUniqueName": "C:\\Users\\alicj\\Desktop\\dotNetLab\\ProjektSemestralnydotNet\\ProjektSemestralnydotNet.Aplication\\ProjektSemestralnydotNet.Aplication.csproj",
         "projectName": "ProjektSemestralnydotNet.Aplication",
-        "projectPath": "/Users/jakubkrawczyk/RiderProjects/ProjektSemestralnydotNet/ProjektSemestralnydotNet.Aplication/ProjektSemestralnydotNet.Aplication.csproj",
-        "packagesPath": "/Users/jakubkrawczyk/.nuget/packages/",
-        "outputPath": "/Users/jakubkrawczyk/RiderProjects/ProjektSemestralnydotNet/ProjektSemestralnydotNet.Aplication/obj/",
+        "projectPath": "C:\\Users\\alicj\\Desktop\\dotNetLab\\ProjektSemestralnydotNet\\ProjektSemestralnydotNet.Aplication\\ProjektSemestralnydotNet.Aplication.csproj",
+        "packagesPath": "C:\\Users\\alicj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alicj\\Desktop\\dotNetLab\\ProjektSemestralnydotNet\\ProjektSemestralnydotNet.Aplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/jakubkrawczyk/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\alicj\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -27,8 +27,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/jakubkrawczyk/RiderProjects/ProjektSemestralnydotNet/ProjektSemestralnydotNet.Domain/ProjektSemestralnydotNet.Domain.csproj": {
-                "projectPath": "/Users/jakubkrawczyk/RiderProjects/ProjektSemestralnydotNet/ProjektSemestralnydotNet.Domain/ProjektSemestralnydotNet.Domain.csproj"
+              "C:\\Users\\alicj\\Desktop\\dotNetLab\\ProjektSemestralnydotNet\\ProjektSemestralnydotNet.Domain\\ProjektSemestralnydotNet.Domain.csproj": {
+                "projectPath": "C:\\Users\\alicj\\Desktop\\dotNetLab\\ProjektSemestralnydotNet\\ProjektSemestralnydotNet.Domain\\ProjektSemestralnydotNet.Domain.csproj"
               }
             }
           }
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.402/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.404/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
@@ -492,17 +492,17 @@
         }
       }
     },
-    "/Users/jakubkrawczyk/RiderProjects/ProjektSemestralnydotNet/ProjektSemestralnydotNet.Domain/ProjektSemestralnydotNet.Domain.csproj": {
+    "C:\\Users\\alicj\\Desktop\\dotNetLab\\ProjektSemestralnydotNet\\ProjektSemestralnydotNet.Domain\\ProjektSemestralnydotNet.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jakubkrawczyk/RiderProjects/ProjektSemestralnydotNet/ProjektSemestralnydotNet.Domain/ProjektSemestralnydotNet.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\alicj\\Desktop\\dotNetLab\\ProjektSemestralnydotNet\\ProjektSemestralnydotNet.Domain\\ProjektSemestralnydotNet.Domain.csproj",
         "projectName": "ProjektSemestralnydotNet.Domain",
-        "projectPath": "/Users/jakubkrawczyk/RiderProjects/ProjektSemestralnydotNet/ProjektSemestralnydotNet.Domain/ProjektSemestralnydotNet.Domain.csproj",
-        "packagesPath": "/Users/jakubkrawczyk/.nuget/packages/",
-        "outputPath": "/Users/jakubkrawczyk/RiderProjects/ProjektSemestralnydotNet/ProjektSemestralnydotNet.Domain/obj/",
+        "projectPath": "C:\\Users\\alicj\\Desktop\\dotNetLab\\ProjektSemestralnydotNet\\ProjektSemestralnydotNet.Domain\\ProjektSemestralnydotNet.Domain.csproj",
+        "packagesPath": "C:\\Users\\alicj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alicj\\Desktop\\dotNetLab\\ProjektSemestralnydotNet\\ProjektSemestralnydotNet.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/jakubkrawczyk/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\alicj\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -549,7 +549,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.402/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.404/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

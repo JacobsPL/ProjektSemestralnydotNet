@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjektSemestralnydotNet.Aplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8cd87693e9ee923035bd6b29adc7eab81f55fe2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afc14bebd8577efa310ab72fa997010c8f3858ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjektSemestralnydotNet.Aplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjektSemestralnydotNet.Aplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
