@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Sj/7eBw+cQA=",
+  "dgSpecHash": "ABsev9sn0Sw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\alicj\\Desktop\\dotNetLab\\ProjektSemestralnydotNet\\ProjektSemestralnydotNet.Aplication\\ProjektSemestralnydotNet.Aplication.csproj",
+  "projectFilePath": "/Users/jakubkrawczyk/RiderProjects/ProjektSemestralnydotNet/ProjektSemestralnydotNet.Aplication/ProjektSemestralnydotNet.Aplication.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\alicj\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.13\\microsoft.aspnetcore.openapi.10.0.13.nupkg.sha512",
-    "C:\\Users\\alicj\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512"
+    "/Users/jakubkrawczyk/.nuget/packages/microsoft.aspnetcore.openapi/10.0.13/microsoft.aspnetcore.openapi.10.0.13.nupkg.sha512",
+    "/Users/jakubkrawczyk/.nuget/packages/microsoft.openapi/2.12.2/microsoft.openapi.2.12.2.nupkg.sha512"
   ],
   "logs": []
 }
