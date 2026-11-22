@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Ue8cujZxZ0=",
+  "success": true,
+  "projectFilePath": "/Users/jakubkrawczyk/RiderProjects/ProjektSemestralnydotNet/ProjektSemestralnydotNet.Tests/ProjektSemestralnydotNet.Tests.csproj",
+  "expectedPackageFiles": [
+    "/Users/jakubkrawczyk/.nuget/packages/microsoft.aspnetcore.openapi/10.0.13/microsoft.aspnetcore.openapi.10.0.13.nupkg.sha512",
+    "/Users/jakubkrawczyk/.nuget/packages/microsoft.openapi/2.12.2/microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}
